@@ -1,0 +1,10 @@
+python-dotenv
+gradio
+langchain
+langchain-openai
+langchain-chroma
+numpy
+scikit-learn
+plotly
+chromadb
+tiktoken
